@@ -9,7 +9,7 @@ This is a staking application based on Synthetix :
 - Allow users to stake, get reward tokens based on some rate that we will set. 
 
 
-## HOW IT IS DONE ?
+## How it is done ? 
 
 - Code is written in Solidity and transpilled to Cairo using Warp v.2
 
